@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<endpoints version="2.0" xmlns="http://java.sun.com/xml/ns/jax-ws/ri/runtime">
+  <endpoint implementation="com.tsi.jaxws.exam.service.CustomerService03" name="CustomerService03" url-pattern="/CustomerService03"/>
+  <endpoint implementation="com.tsi.jaxws.exam.service.CustomerService02" name="CustomerService02" url-pattern="/CustomerService02"/>
+  <endpoint implementation="com.tsi.jaxws.exam.service.CustomerService01" name="CustomerService01" url-pattern="/CustomerService01"/>
+</endpoints>
